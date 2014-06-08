@@ -1,0 +1,10 @@
+C:\work\cs\gyuudonApp\gyuudonApp\bin\Debug\gyuudonApp.exe
+C:\work\cs\gyuudonApp\gyuudonApp\bin\Debug\gyuudonApp.pdb
+C:\work\cs\gyuudonApp\gyuudonApp\obj\Debug\gyuudonApp.csprojResolveAssemblyReference.cache
+C:\work\cs\gyuudonApp\gyuudonApp\obj\Debug\Window1.baml
+C:\work\cs\gyuudonApp\gyuudonApp\obj\Debug\Window1.g.cs
+C:\work\cs\gyuudonApp\gyuudonApp\obj\Debug\App.g.cs
+C:\work\cs\gyuudonApp\gyuudonApp\obj\Debug\gyuudonApp_MarkupCompile.cache
+C:\work\cs\gyuudonApp\gyuudonApp\obj\Debug\gyuudonApp.g.resources
+C:\work\cs\gyuudonApp\gyuudonApp\obj\Debug\gyuudonApp.exe
+C:\work\cs\gyuudonApp\gyuudonApp\obj\Debug\gyuudonApp.pdb
